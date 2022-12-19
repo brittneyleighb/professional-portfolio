@@ -2,7 +2,7 @@
 date: '2022-12-05'
 title: 'HTML Portfolio'
 github: 'https://github.com/brittneyleighb/Portfolio'
-external: '[https://vimeo.com/brittneyleigh](https://github.com/brittneyleighb/Harvard-CS50)'
+external: 'https://vimeo.com/781575931'
 tech:
   - HTML
   - CSS
