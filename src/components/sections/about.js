@@ -143,8 +143,7 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of creating and owning a Shopify storefront,{' '}
               <a href="https://theslothboutique.com/">The Sloth Boutique</a>,{' '}
               <a href="https://www.etsy.com/shop/TheSlothBoutique">our Etsy shop</a>,{' '}
-              <a href="https://statementearringco.com/">a small E-Commerce project to learn SEO, product photography, and other digital marketing skills</a>, and{' '}
-              <a href="https://www.tiktok.com/@bellusvitatravel">other creative pursuits</a>. My
+              <a href="https://statementearringco.com/">Statement Earring Co</a>, a small E-Commerce project to learn SEO, product photography, and other digital marketing skills. My
               interests currently are in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
               graphic design, and learning programming in various language, with a recent focus on Lua, Python, and learning how to use Blender and Unreal Engine.
               I am constanstly learning new skills and am always brimming with ideas.
