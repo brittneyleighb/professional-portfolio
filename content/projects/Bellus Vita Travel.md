@@ -1,5 +1,5 @@
 ---
-date: '2020-08-01'
+date: '2022-08-01'
 title: 'Bellus Vita Travel'
 github: ''
 external: 'https://bellusvitatravel.com/'
