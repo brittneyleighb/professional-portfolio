@@ -1,5 +1,5 @@
 ---
-date: '2016-04-01'
+date: '2021-07-01'
 title: 'Graphic Design and Interior Design Concepts for an Airbnb'
 github: ''
 external: 'https://issuu.com/home/published/coral_photo_collage_travel_blog_graphic'
