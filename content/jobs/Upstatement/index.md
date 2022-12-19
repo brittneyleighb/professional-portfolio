@@ -1,10 +1,10 @@
 ---
 date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
+title: 'Owner/Product Designer'
+company: 'The Sloth Boutique'
+location: 'Pleasant Grove, Utah'
 range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+url: '[(https://theslothboutique.com/)]'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
