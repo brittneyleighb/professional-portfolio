@@ -9,7 +9,7 @@ tech:
   - Typeform
   - Adobe Fonts
 created for: 'Harvard CS50'
-showInProjects: false
+showInProjects: true
 ---
 
 My final project for Havard CS50 was creating a custom portfolio using HTML and CSS with a functional contact form.
