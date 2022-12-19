@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Brittney Banning,
     description:
-      'Brittany Chiang is a UX who specializes in creating exceptional digital experiences.',
-    siteUrl: 'https://brittneyleighb.com', // No trailing slash allowed!
+      'Brittney Banning is a UX who specializes in creating exceptional digital experiences.',
+    siteUrl: 'https://brittneyleighb.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bellusvita_',
   },
