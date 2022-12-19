@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittney Banning,
+    title: 'Brittney Banning',
     description:
-      'Brittney Banning is a UX who specializes in creating exceptional digital experiences.',
-    siteUrl: 'https://brittneyleighb.netlify.app/', // No trailing slash allowed!
+      'Brittney Banning is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bellusvita_',
+    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -23,8 +23,8 @@ module.exports = {
         name: 'Brittney Banning',
         short_name: 'Brittney Banning',
         start_url: '/',
-        background_color: config.colors.black,
-        theme_color: config.colors.black,
+        background_color: config.colors.darkNavy,
+        theme_color: config.colors.navy,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
       },
