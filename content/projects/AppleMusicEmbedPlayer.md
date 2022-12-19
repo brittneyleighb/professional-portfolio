@@ -1,14 +1,18 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
-github: ''
-external: 'https://tools.applemusic.com/en-us'
+date: '2022-12-14'
+title: 'Harvard CS50'
+github: 'https://github.com/brittneyleighb/Harvard-CS50'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
+  - C 
+  - Python
+  - Javascript
+  - SQL
+  - HTML
+  - CSS
+  - Bootstrap
+  - Flask
 company: 'Apple'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+In December 2022 I passed Harvard CS50, Intro to Computer Programming.
