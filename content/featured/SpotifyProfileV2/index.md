@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Responsive Website Design'
 cover: './simon-hattinga-verschure-5085.jpg'
 tech:
   - Adobe XD
