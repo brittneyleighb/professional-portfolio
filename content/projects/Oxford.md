@@ -8,3 +8,4 @@ tech:
 created for: 'Oxford Extension School'
 showInProjects: true
 ---
+The final assignment for 'Inequality and Labour Markets' from Oxford University's Extension School.
