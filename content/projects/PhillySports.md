@@ -1,12 +1,10 @@
 ---
 date: '2021-07-01'
-title: 'Philadelphia Inquirer Sports Scoreboards'
+title: 'Academic Writing for Oxford Economics Course'
 github: ''
-external: 'https://www.inquirer.com/sports/'
+external: 'https://heyzine.com/flip-book/db462b78f6.html'
 tech:
-  - React
-  - TypeScript
-  - Stats Perform API
-company: 'Upstatement'
-showInProjects: false
+  - Google Docs
+created for: 'Oxford Extension School'
+showInProjects: true
 ---
