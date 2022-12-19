@@ -2,9 +2,9 @@
 date: '2020-08-01'
 title: 'Bellus Vita Travel'
 github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+external: 'https://bellusvitatravel.com/'
 tech:
-  - Wordpress.com
+  - Wordpress.org
   - Wordpress plugins
   - HTML
   - Instagram Posts & Reels
