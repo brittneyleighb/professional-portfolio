@@ -11,7 +11,7 @@ tech:
   - CSS
   - Bootstrap
   - Flask
-company: 'Apple'
+created for: 'Harvard CS50'
 showInProjects: true
 ---
 
