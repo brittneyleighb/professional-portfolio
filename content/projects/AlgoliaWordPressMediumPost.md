@@ -1,14 +1,11 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: '2021-03-27'
+title: 'Interior Design for South Padre Airbnb'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://www.canva.com/design/DAFSuiy1RMs/WFBXGMPHqj6ZSXLIAJL1FQ/view?utm_content=DAFSuiy1RMs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+created for: 'South Padre Airbnb'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Budgeting and purchasing supplies. Painting, home repairs, installations.
