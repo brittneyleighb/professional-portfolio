@@ -65,8 +65,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a UX Designer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
+        I’m a UX & Product Designer specializing in building unique digital experiences. I also design
+        handmade goods sold through the web. Currently, I’m interested in the intersection of art and 
+        technology, as well as more about E-Commerce with my most recent project
         at{' '}
         <a href="https://statementearringco.com/" target="_blank" rel="noreferrer">
           Statement Earring Co.
@@ -78,10 +79,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://github.com/brittneyleighb"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Check out my Github!
     </a>
   );
 
