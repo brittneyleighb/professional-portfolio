@@ -1,12 +1,16 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2022-07-01'
+title: 'Wordpress Blogger'
+company: 'Bellus Vita Travel'
+location: 'Online'
+range: 'July 2022 - Present'
+url: 'https://bellusvitatravel.com/'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Wordpress
+- Wordpress plugins
+- Content research and writing 
+- Photography
+- Photoshop
+- Lightroom
+- Social media (Facebook, Instagram, and TikTok)
