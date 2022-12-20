@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2022-12-01'
+title: 'Business English Teacher'
+company: 'Italki/Freelancer'
+location: 'Remote, worldwide'
+range: 'February 2020-Present'
+url: 'https://teach.italki.com/teacher/6013172'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript
+- Zoom and Skype video conferencing
+- Have met people from 40+ countries!
