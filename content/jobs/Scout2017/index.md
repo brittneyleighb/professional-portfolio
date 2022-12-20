@@ -8,4 +8,6 @@ url: 'https://teach.italki.com/teacher/6013172'
 ---
 
 - Zoom and Skype video conferencing
+- Google slides
+- Interactive digital materials
 - Have met people from 40+ countries!
