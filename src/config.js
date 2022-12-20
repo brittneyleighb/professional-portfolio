@@ -1,4 +1,4 @@
-module.exports = 
+module.exports = {
   email: 
     'brittneyleighb@gmail.com',
 
