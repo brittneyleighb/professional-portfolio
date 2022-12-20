@@ -140,13 +140,18 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of creating and owning a Shopify storefront,{' '}
+              I developed an interest in design when I was a Mass Communication major in college. I took classes in Visual Communication, Video Production,
+              and learned how to use Adobe Indesign, among others.
+              After earning my degree, I entered the education sphere and worked a personal trainer, ski & snowboard instructor, elementary school teacher,
+              technology teacher, and becoming a teacher taught me a great deal about the joy of learning, and how to efficiently
+              learn and master new skills.
+              Fast-forward to today, and I’ve been working hard to transition my career, creating and owning a Shopify storefront,{' '}
               <a href="https://theslothboutique.com/">The Sloth Boutique</a>,{' '}
-              <a href="https://www.etsy.com/shop/TheSlothBoutique">our Etsy shop</a>,{' '}
+              <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop</a>,{' '}
               <a href="https://statementearringco.com/">Statement Earring Co</a>, a small E-Commerce project to learn SEO, product photography, and other digital marketing skills. My
               interests currently are in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
               graphic design, and learning programming in various languages.
-              I am constanstly learning new skills and am always brimming with ideas.
+              I am constantly learning new things, and always keep a notebook handy as I am always brimming with creative ideas.
             </p>
 
             <p>
