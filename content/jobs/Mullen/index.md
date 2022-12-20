@@ -1,12 +1,14 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2021-02-10'
+title: 'Airbnb Rental Hosting'
+company: 'Airbnb'
+location: 'South Padre Island, TX'
+range: 'February 2021 - February 2022'
+url: ''
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Property photography
+- Property maintainance
+- Communication with renters
+- Interior design
+- Digital materials for social media and for guests
