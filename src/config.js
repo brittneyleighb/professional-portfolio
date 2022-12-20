@@ -1,6 +1,10 @@
-module.exports = {
-  email: 'brittneyleighb@gmail.com',
-}
+module.exports = 
+  email: [
+    {
+    'brittneyleighb@gmail.com',
+    }
+  ],
+    
   socialMedia: [
     {
       name: 'GitHub',
