@@ -65,6 +65,7 @@ const Contact = () => {
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
+      <form action="https://formsubmit.co/your@email.com" method="POST" />
         Say Hello
       </a>
     </StyledContactSection>
