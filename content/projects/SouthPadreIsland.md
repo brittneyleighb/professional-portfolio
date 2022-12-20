@@ -2,7 +2,7 @@
 date: '2021-07-01'
 title: 'Graphic Design Concept for an Airbnb'
 github: ''
-external: 'https://issuu.com/home/published/coral_photo_collage_travel_blog_graphic'
+external: 'https://heyzine.com/flip-book/1486cac60d.html'
 tech:
   - Canva
 created for: 'Airbnb rental'
