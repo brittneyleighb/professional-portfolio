@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Figma', 'HTML & CSS', 'Python', 'Blender', 'Javascript', 'WordPress', 'Lua', 'Unreal Engine', 'Adobe Illustrator', 'Adobe After Effects'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,7 +145,7 @@ const About = () => {
               <a href="https://www.etsy.com/shop/TheSlothBoutique">our Etsy shop</a>,{' '}
               <a href="https://statementearringco.com/">Statement Earring Co</a>, a small E-Commerce project to learn SEO, product photography, and other digital marketing skills. My
               interests currently are in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
-              graphic design, and learning programming in various language, with a recent focus on Lua, Python, and learning how to use Blender and Unreal Engine.
+              graphic design, and learning programming in various languages.
               I am constanstly learning new skills and am always brimming with ideas.
             </p>
 
