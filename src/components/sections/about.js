@@ -142,9 +142,11 @@ const About = () => {
             <p>
               I developed an interest in design when I was a Mass Communication major in college. I took classes in Visual Communication, Video Production,
               and learned how to use Adobe Indesign, among others.
+              <br>
               After earning my degree, I entered the education sphere and worked a personal trainer, ski & snowboard instructor, elementary school teacher,
               technology teacher, and becoming a teacher taught me a great deal about the joy of learning, and how to efficiently
               learn and master new skills.
+              <br>
               Fast-forward to today, and I’ve been working hard to transition my career, creating and owning a Shopify storefront,{' '}
               <a href="https://theslothboutique.com/">The Sloth Boutique</a>,{' '}
               <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop</a>,{' '}
