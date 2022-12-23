@@ -182,6 +182,8 @@ const Projects = () => {
               tech
               github
               external
+              ios
+              android
             }
             html
           }
