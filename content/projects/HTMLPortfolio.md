@@ -2,7 +2,7 @@
 date: '2022-12-05'
 title: 'HTML Portfolio'
 github: 'https://github.com/brittneyleighb/Portfolio'
-external: 'https://vimeo.com/781575931'
+external: 'https://brittneyleighb.netlify.app/'
 tech:
   - HTML
   - CSS
