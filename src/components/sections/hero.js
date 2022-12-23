@@ -79,10 +79,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://github.com/brittneyleighb"
+      href="https://www.behance.net/brittneybanning"
       target="_blank"
       rel="noreferrer">
-      Check out my Github!
+      Check out my work on Behance!
     </a>
   );
 
