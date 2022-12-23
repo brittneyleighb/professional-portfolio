@@ -61,11 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Brittney Banning.</h2>;
-  const three = <h3 className="big-heading">I design things for fun experiences.</h3>;
+  const three = <h3 className="big-heading">I design things.</h3>;
   const four = (
     <>
       <p>
-        I’m a UX & Product Designer specializing in building unique digital experiences. I also design
+        I’m a UX & Product Designer specializing in building fun & unique digital experiences. I also design
         handmade goods sold through the web. Currently, I’m interested in the intersection of art and 
         technology, as well as more about E-Commerce with my most recent project
         at{' '}
