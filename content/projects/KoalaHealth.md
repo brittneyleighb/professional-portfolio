@@ -14,5 +14,5 @@ tech:
   - Yup
   - Vercel
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
