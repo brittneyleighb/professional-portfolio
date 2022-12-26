@@ -1,14 +1,13 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: '2009-12-01'
+title: 'Women's Snowboarding Magazine Concewpt'
 github: ''
-external: 'https://blistabloc.com/'
+external: '[https://blistabloc.com/](https://issuu.com/home/published/finalmag7resized)'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - Adobe InDesign
+  - Stock photos
+created for: 'University of Utah'
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+For this project I learned how to use InDesign to design layouts as well as more about typography and visual aesthetics. Bonus content: I also wrote the articles! Iterated on in Dec 2022.
