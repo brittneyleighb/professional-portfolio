@@ -1,5 +1,5 @@
 ---
-date: '2009-12-01'
+date: '2022-12-01'
 title: 'Women's Snowboarding Magazine Concewpt'
 github: ''
 external: '[https://blistabloc.com/](https://issuu.com/home/published/finalmag7resized)'
