@@ -1,6 +1,6 @@
 ---
 date: '2009-12-01'
-title: 'magazine concept'
+title: 'Snowboarding Magazine Concept'
 github: ''
 external: 'https://issuu.com/home/published/finalmag7resized'
 tech:
