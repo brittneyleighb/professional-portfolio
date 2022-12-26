@@ -1,5 +1,5 @@
 ---
-date: '2009-12-1'
+date: '2009-12-01'
 title: 'Women's Snowboarding Magazine Concept'
 external: 'https://issuu.com/brittneyleighb/docs/finalmag7resized'
 tech:
