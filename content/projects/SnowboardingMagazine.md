@@ -1,6 +1,6 @@
 ---
 date: '2022-12-01'
-title: 'Women's Snowboarding Magazine Concewpt'
+title: 'magazine concept'
 github: ''
 external: '[https://blistabloc.com/](https://issuu.com/home/published/finalmag7resized)'
 tech:
