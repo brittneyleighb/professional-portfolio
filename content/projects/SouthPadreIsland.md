@@ -1,6 +1,6 @@
 ---
 date: '2021-07-01'
-title: 'Graphic Design Concept for an Airbnb'
+title: 'Airbnb Guide for Guests'
 github: ''
 external: 'https://heyzine.com/flip-book/1486cac60d.html'
 tech:
