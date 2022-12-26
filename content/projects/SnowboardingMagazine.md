@@ -5,7 +5,6 @@ github: ''
 external: 'https://issuu.com/home/published/finalmag7resized'
 tech:
   - Adobe InDesign
-  - Stock photos
 created for: 'University of Utah'
 showInProjects: true
 ---
