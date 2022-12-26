@@ -1,5 +1,5 @@
 ---
-date: '2022-12-01'
+date: '2009-12-01'
 title: 'magazine concept'
 github: ''
 external: 'https://issuu.com/home/published/finalmag7resized'
