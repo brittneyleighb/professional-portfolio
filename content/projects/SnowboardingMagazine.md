@@ -2,7 +2,7 @@
 date: '2022-12-01'
 title: 'magazine concept'
 github: ''
-external: '[https://blistabloc.com/](https://issuu.com/home/published/finalmag7resized)'
+external: 'https://issuu.com/home/published/finalmag7resized'
 tech:
   - Adobe InDesign
   - Stock photos
