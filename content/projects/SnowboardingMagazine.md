@@ -1,7 +1,6 @@
 ---
 date: '2009-12-1'
 title: 'Women's Snowboarding Magazine Concept'
-github: ''
 external: 'https://issuu.com/brittneyleighb/docs/finalmag7resized'
 tech:
   - Adobe InDesign
