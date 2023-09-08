@@ -3,8 +3,8 @@ date: '2022-12-14'
 title: 'Owner'
 company: 'Bellus Vita Art Co.'
 location: 'Online'
-range: 'December 2022-Present'
-url: 'https://statementearringco.com/'
+range: 'August 2023-Present'
+url: 'www.etsy.com/shop/BellusVitaArtCo'
 ---
 
 - Created art for an Etsy shop.
