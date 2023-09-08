@@ -14,7 +14,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bellusvita_',
+      url: 'https://twitter.com/ashgamedev_',
     },
     {
       name: 'Linkedin',
