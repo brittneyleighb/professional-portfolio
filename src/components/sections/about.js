@@ -142,13 +142,12 @@ const About = () => {
             <p>
               I developed an interest in design when I was a Mass Communication major in college. I took classes in Visual Communication, Video Production,
               and learned how to use Adobe Indesign, among others.
-              Fast-forward to today, and I’ve been working hard to transition my career, creating and owning a Shopify storefront,{' '}
+              Fast-forward to today, and I’ve been working hard on{' '}
               <a href="https://theslothboutique.com/">The Sloth Boutique</a>,{' '}
-              <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop</a>,{' '}
-              <a href="https://statementearringco.com/">Statement Earring Co</a>, a small E-Commerce project to learn SEO, product photography, and other digital marketing skills. My
-              interests currently are in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
-              graphic design, and learning programming in various languages.
-              I am constantly learning new things, and always keep a notebook handy as I am always brimming with creative ideas.
+              <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop where we donate 10% of profits to sloth conservation foundations</a>,{' '}
+              <a href="https://www.etsy.com/shop/BellusVitaArtCo/">Bellus Vita Art Co.</a>, a digital art print shop.
+              I currently hold interest in content writing on Substack and Medium, as well as developing skills in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
+              graphic design, physical & digital art, and learning programming in various languages.
             </p>
 
             <p>
