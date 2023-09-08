@@ -144,7 +144,7 @@ const About = () => {
               and learned how to use Adobe Indesign, among others.
               Fast-forward to today, and I’ve been working hard on{' '}
               <a href="https://theslothboutique.com/">The Sloth Boutique</a>,{' '}
-              <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop where we donate 10% of profits to sloth conservation foundations</a>,{' '}
+              <a href="https://www.etsy.com/shop/TheSlothBoutique">an Etsy shop </a>, where we donate 10% of profits to sloth conservation foundations{' '}
               <a href="https://www.etsy.com/shop/BellusVitaArtCo/">Bellus Vita Art Co.</a>, a digital art print shop.
               I currently hold interest in content writing on Substack and Medium, as well as developing skills in UX Design for both mobile and web, E-Commerce, HTML & CSS webpages, Android app development, video game development, digital design, 
               graphic design, physical & digital art, and learning programming in various languages.
