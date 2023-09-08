@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Brittney Banning',
     description:
-      'Brittney Banning is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Brittney Banning is a product designer, artist, and software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://brittanyleighb.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@ashgamedev',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
