@@ -10,7 +10,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bellusvita.design/',
+      url: 'https://www.instagram.com/ashgamedev/',
     },
     {
       name: 'Twitter',
